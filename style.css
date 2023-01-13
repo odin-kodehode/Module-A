@@ -5,8 +5,12 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+body{
+    background-color: lightgray;
+}
+
 .border-box{
-    border: solid 1px;
+    border: solid 1px black;
 }
 
 
@@ -14,10 +18,13 @@
     width: 150px;
     height: 100px;
     overflow-y: scroll;
+    background-color: gray;
+    color: white;
 }
 
 .sticky{
     position: sticky;
     top: -1px;
-    background-color: lightslategray;
+    background-color: darkslategray;
+    color: white;
 }
