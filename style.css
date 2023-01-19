@@ -77,17 +77,17 @@ header li a {
 
 .parallax-image-1{
     background-image: url('./image/parallax-1.jpg');
-    min-height: 100vh;
+    min-height: 100%;
 }
 
 .parallax-image-2{
     background-image: url('./image/parallax-2.jpg');
-    min-height: 200px;
+    min-height: 50%;
 }
 
 .parallax-image-3{
     background-image: url('./image/parallax-3.jpg');
-    min-height: 400px;
+    min-height: 35%;
 }
 
 .parallax-text{
