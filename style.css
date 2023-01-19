@@ -45,9 +45,9 @@ header li{
 
 header li a {
     display: block;
-    color: black;
+    color: #dd55dd;
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .border-box{
